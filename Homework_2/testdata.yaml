@@ -1,0 +1,11 @@
+address: 'https://test-stand.gb.ru'
+browser: 'chrome'
+username: 'TestRosya'
+password: '31d14e800b'
+token: '957c229c37fd704a39c75c4304e03710'
+sleep_time: '2'
+
+
+title: 'Selenium WebDriver'
+description: 'Selenium WebDriver is a programming interface that can be used to create and execute test cases.'
+content: 'Think of a WebDriver as a mediator, something that allows two things to interact. Imagine there are two people who cannot speak the same language. One of them has interesting and useful things to say, but can not get their point across. In that case, you need an interpreter.'
