@@ -1,0 +1,10 @@
+2023-09-30 14:46:09 INFO ====== WebDriver manager ======
+2023-09-30 14:46:09 INFO Get LATEST chromedriver version for google-chrome
+2023-09-30 14:46:09 INFO Get LATEST chromedriver version for google-chrome
+2023-09-30 14:46:10 INFO Driver [C:\Users\Rosya\.wdm\drivers\chromedriver\win64\117.0.5938.92\chromedriver-win32/chromedriver.exe] found in cache
+2023-09-30 14:46:11 INFO Test1 Starting
+2023-09-30 14:46:16 INFO Test2 Starting
+2023-09-30 14:46:20 INFO Test3 Starting
+2023-09-30 14:46:27 INFO Test4 Starting
+2023-09-30 14:46:31 INFO Get alert text
+2023-09-30 14:46:31 INFO Form successfully submitted

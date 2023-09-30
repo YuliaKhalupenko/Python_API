@@ -1,0 +1,14 @@
+url: https://test-stand.gb.ru/
+url_login: https://test-stand.gb.ru/login
+url_get_token: https://test-stand.gb.ru/gateway/login
+url_api_posts: https://test-stand.gb.ru/api/posts
+url_api_create_posts: https://test-stand.gb.ru/gateway/posts
+browser: chrome
+sleep_time: 1
+username: TestRosya
+password: 31d14e800b
+test: test
+fromaddr : test_gb3393@mail.ru
+toaddr : test_gb3393@mail.ru
+mypass : 1YRaN1]izarA
+
